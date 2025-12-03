@@ -23,8 +23,8 @@
 		<log4j.version>1.2.17</log4j.version>
 	<!--	<sonar.host.url>http://localhost:9000/</sonar.host.url>
 		<sonar.login>sqa_776b61260175253888356268935550156ddbca95</sonar.login> -->
-		<sonar.projectKey=my-java-project</sonar.projectKey>
-        <sonar.projectName>My Java Project</sonar.projectName>
+		<sonar.projectKey>my-java-project</sonar.projectKey>
+        <sonar.projectName>my-java-project</sonar.projectName>
         <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
